@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8596e5ae2b8d68241b63e6a14cc0eb66, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Explorer
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 3937738193674082112, guid: d80a145eb5b7f1b4cbe06dce2af26b68, type: 3}
+  - <Name>k__BackingField: Worker
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 8230162990303420235, guid: 6f7a2f73df9448b4abcec48ed70a3b45, type: 3}
+  - <Name>k__BackingField: Static
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 207433823584705480, guid: af53a9cbde799c940af18839766fce7c, type: 3}
+  - <Name>k__BackingField: Hazard
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 1079439385134682441, guid: 265b8eab1e40b494eb9aa252d52d7a72, type: 3}
+  - <Name>k__BackingField: Resource
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4724039463770012738, guid: ab3f914443d24be4688f1c86e66c1105, type: 3}
+  - <Name>k__BackingField: Target
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 2531099254672987411, guid: 1c3dc2a1ece0f1e4bbe2354fe35fdae7, type: 3}
